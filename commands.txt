@@ -1,0 +1,9 @@
+PS C:\Users\TyraCato\Documents\GitHub\git_demo> git fetch upstream master
+>> 
+>> 
+From https://github.com/jjun14/git_demo
+ * branch            master     -> FETCH_HEAD
+PS C:\Users\TyraCato\Documents\GitHub\git_demo> 
+
+
+
